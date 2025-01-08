@@ -1,0 +1,8 @@
+.SearchBox{
+    text-align: right;
+}
+.sty{
+    text-align: center;
+    background-color: red;
+    display: flex;
+}
