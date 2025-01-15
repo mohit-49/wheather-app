@@ -1,8 +1,12 @@
-.SearchBox{
-    text-align: right;
+.SearchBox {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
 }
+
 .sty{
-    text-align: center;
+    text-align: center ;
     background-color: red;
     display: flex;
+    justify-content: center; 
 }
